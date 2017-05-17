@@ -1,0 +1,19 @@
+body {
+  background-color: #1BD8BA; }
+  body header nav {
+    border: 1px solid black;
+    background-color: #FFE048; }
+    body header nav ul {
+      display: flex;
+      justify-content: space-around; }
+      body header nav ul li {
+        display: inline-block;
+        list-style: none; }
+        body header nav ul li a, body header nav ul li a:visited, body header nav ul li a:active {
+          color: #525252;
+          text-decoration: none; }
+        body header nav ul li a:hover {
+          text-decoration: underline;
+          color: #53B9FC; }
+
+/*# sourceMappingURL=style.css.map */
